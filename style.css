@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1  {
+    color: #62C1E9;
+    text-align: right;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: normal;
+}
+p {
+    color: #495293;
+    font-size: 36px;
+}
+body  {
+    background-color: #DCF2C2;
+    color: #99CDCF;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+}
